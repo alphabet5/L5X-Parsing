@@ -1,7 +1,7 @@
 # L5X-Parsing
 Script to help parse L5X files
 
-This might need some manual working to get your output just right. This is more of a scratch project, but has worked will. This will be refined the next time I need it. Pull requests welcome.
+This might need some manual working to get your output just right. This is more of a scratch project, but has worked well. This will be refined the next time I need it. Pull requests welcome.
 
 ## Overview
 
