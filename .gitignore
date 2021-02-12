@@ -1,0 +1,6 @@
+.idea/*
+input/*
+temp.yaml
+temp2.yaml
+.DS_Store
+arguments.yaml
